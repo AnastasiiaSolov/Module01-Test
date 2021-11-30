@@ -10,6 +10,7 @@ body {
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
+    align-items: center;
 }
 .logo {
     margin-right: 50px;
@@ -48,7 +49,6 @@ footer {
     font-size: 13px;
     padding-left: 20px;
     padding-right: 20px;
-    align-items: center;
 }
 a {
     color: rebeccapurple;
